@@ -4,13 +4,14 @@ Features
 Data Visualization: Interactive charts and graphs for quick insights into student demographics and performance.
 Detailed Analysis: Examine various metrics such as age groups, course fees, and student details.
 User-Friendly Interface: Intuitive layout for easy navigation and data exploration.
+
 Data Sheets
 Personal Details
-
 Columns: Student Name, Age, Contact Number, Email ID, City and State, Issued Certificate
-Student Course Details
 
+Student Course Details
 Columns: Student Name, Age, Course, Date of Joining, Fees, Age Group
+
 Technologies Used
 Power BI
 Data Modeling
